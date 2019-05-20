@@ -1,0 +1,19 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Perhitungan Nilai\bin\Debug\Perhitungan Nilai.exe.config
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\bin\Debug\Perhitungan Nilai.exe.config
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan_Nilai.Form1.resources
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan_Nilai.Form2.resources
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan_Nilai.Resources.resources
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan Nilai.vbproj.GenerateResource.Cache
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\bin\Debug\Perhitungan Nilai.exe
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\bin\Debug\Perhitungan Nilai.pdb
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\bin\Debug\Perhitungan Nilai.xml
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan Nilai.exe
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan Nilai.xml
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan Nilai.pdb
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan_Nilai.Form3.resources
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan_Nilai.Form4.resources
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan_Nilai.Form5.resources
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan_Nilai.Form6.resources
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan_Nilai.Form7.resources
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan Nilai.vbprojResolveAssemblyReference.cache
+D:\CODING\1VB\Perhitungan Nilai\Perhitungan Nilai\obj\Debug\Perhitungan_Nilai.Form8.resources
